@@ -1,0 +1,23 @@
+Application: OPP
+Observed version: 2.2.12
+Observed build: 27
+Bundle identifier: com.apple.OPP
+Platform: macOS
+Architecture: x86_64
+Minimum macOS version: 10.12
+Registered document type: CSV
+Document class observed: GroupPlotController
+Build toolchain metadata: Xcode 14.1 (14A400)
+SDK metadata: macOS 12.3
+Graphing framework observed: CorePlot
+Update framework observed: Sparkle
+Code signing: Apple Developer ID signature present on inspected copy
+Notarization: stapled ticket present on inspected copy
+Research date: 2026-10-06
+
+Public archive policy:
+- No application binary included
+- No bundled proprietary frameworks included
+- No internal service URLs included
+- No internal mailing-group addresses included
+- No private documentation links included

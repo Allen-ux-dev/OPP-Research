@@ -1,0 +1,10 @@
+.DS_Store
+*.app
+*.dmg
+*.pkg
+*.ipa
+*.zip
+*.tar
+*.tar.gz
+private/
+originals/
